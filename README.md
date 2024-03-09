@@ -2,8 +2,8 @@
 ## Pushing from our local environment to Github  
 - Download Gitbash (https://git-scm.com/downloads)  
 ## Work with your configured environment  
-- mkdir webistel  
-- cd websitel  
+- mkdir website  
+- cd website  
 - git init  
 - touch index.html  
 ## Clone Your GitHub Repo  
